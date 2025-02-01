@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/periodico.uf2'
+elf = 'build/periodico.elf'
